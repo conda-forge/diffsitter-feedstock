@@ -9,18 +9,13 @@ Package license: MIT
 
 Summary: A tree-sitter based AST difftool to get meaningful semantic diffs
 
+Development: https://github.com/afnanenayet/diffsitter
+
 Current build status
 ====================
 
 
-<table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/diffsitter-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/diffsitter-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr>
+<table>
     
   <tr>
     <td>Azure</td>
