@@ -31,8 +31,8 @@ about:
     - LICENSE
     - THIRDPARTY.yml
   summary: A tree-sitter based AST difftool to get meaningful semantic diffs
-  home: https://github.com/afnanenayet/diffsitter
   homepage: https://github.com/afnanenayet/diffsitter
+  repository: https://github.com/afnanenayet/diffsitter
 
 extra:
   recipe-maintainers:
