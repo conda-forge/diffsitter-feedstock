@@ -1,5 +1,5 @@
 context:
-  version: 0.8.4
+  version: "0.9.0"
 
 package:
   name: diffsitter
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/afnanenayet/diffsitter/releases/download/v${{ version }}/diffsitter_src.tar.gz
-  sha256: b3834648beec6f9f97e18dfe8452489a190a91c078a412c0609ecd33f43232ec
+  sha256: bcb7dc399682b5ab33826d0a993646a7405fa89290d6e768010000773b730d6e
 
 build:
   number: 0
